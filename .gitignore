@@ -1,3 +1,7 @@
+src/constants/wallet.js
+src/constants/nodes.js
+
+
 # Logs
 logs
 *.log

@@ -1,0 +1,24 @@
+{
+  "name": "topshelf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sahel95/topshelf.git"
+  },
+  "author": "sahel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sahel95/topshelf/issues"
+  },
+  "homepage": "https://github.com/Sahel95/topshelf#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "abi-decoder": "^2.4.0",
+    "web3": "^1.6.1"
+  }
+}
